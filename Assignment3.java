@@ -159,7 +159,7 @@
         }
         System.out.print(ConvertNumber);
         System.out.print(" Kilograms is equal to ");
-        System.out.print(ConvertNumber*0.621371);
+        System.out.print(ConvertNumber*2.20462);
         System.out.print(" Pounds! How neat!");
         System.out.println("");
     }
